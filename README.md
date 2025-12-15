@@ -23,3 +23,24 @@ This project allows users to generate QR codes instantly from any text or URL.
 ---
 
 ## 📂 Project Structure
+QR Code Project/
+│
+├── index.js
+├── package.json
+├── package-lock.json
+├── qr_img.png
+├── URL.txt
+└── README.md
+📸 Generated QR Code
+
+![QR Code](./qr_img.png)
+
+---
+
+## ▶️ How to Run
+
+```bash
+npm install
+node index.js
+👨‍💻 Author
+Abhishek Kumar
